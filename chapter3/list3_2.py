@@ -12,4 +12,4 @@ def mergesort(seq):
     res.reverse()
     return (lft or rgt)+res
 
-print(mergesort([5,4,3,2,1]))
+print(mergesort([5,4,3,2,1,6]))
